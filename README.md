@@ -14,9 +14,9 @@ I am always curious about new frameworks and keep creating hands-on demos until 
 
 ## My recent blogs
 
-- Creating static websites with Jekyll ( https://chaitanyasuvarna.wordpress.com/2020/08/07/creating-static-websites-with-jekyll/ )
-- Using SQLite database with EntityFramework Core 3 ( https://chaitanyasuvarna.wordpress.com/2020/07/26/sqlite-with-efcore-3/ )
-- Browsing SQLite database with ease ( https://chaitanyasuvarna.wordpress.com/2020/07/23/browsing-sqlite-database-with-ease/ )
+- [Creating static websites with Jekyll](https://chaitanyasuvarna.wordpress.com/2020/08/07/creating-static-websites-with-jekyll/)
+- [Using SQLite database with EntityFramework Core 3](https://chaitanyasuvarna.wordpress.com/2020/07/26/sqlite-with-efcore-3/)
+- [Browsing SQLite database with ease](https://chaitanyasuvarna.wordpress.com/2020/07/23/browsing-sqlite-database-with-ease/)
 
 
 <!--
