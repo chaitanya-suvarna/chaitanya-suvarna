@@ -14,6 +14,7 @@ I am always curious about new frameworks and keep creating hands-on demos until 
 
 ## My recent blogs
 
+- [How to write unit tests for HttpClient using NUnit and Moq in C#](https://chaitanyasuvarna.wordpress.com/2020/09/06/nunit-test-for-httpclient-moq/)
 - [SQL Server Service Broker for Asynchronous Applications](https://chaitanyasuvarna.wordpress.com/2020/08/23/sql-server-service-broker/)
 - [Creating static websites with Jekyll](https://chaitanyasuvarna.wordpress.com/2020/08/07/creating-static-websites-with-jekyll/)
 - [Using SQLite database with EntityFramework Core 3](https://chaitanyasuvarna.wordpress.com/2020/07/26/sqlite-with-efcore-3/)
